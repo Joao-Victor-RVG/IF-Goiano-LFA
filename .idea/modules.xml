@@ -4,8 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LFA with Java/Ex001/Ex001.iml" filepath="$PROJECT_DIR$/LFA with Java/Ex001/Ex001.iml" />
       <module fileurl="file://$PROJECT_DIR$/LFA with Java/Ex002/Ex002.iml" filepath="$PROJECT_DIR$/LFA with Java/Ex002/Ex002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise 06.26.2024/Exercise 06.26.2024.iml" filepath="$PROJECT_DIR$/Exercise 06.26.2024/Exercise 06.26.2024.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IF-Goiano-LFA.iml" filepath="$PROJECT_DIR$/.idea/IF-Goiano-LFA.iml" />
       <module fileurl="file://$PROJECT_DIR$/LFA with Java/LFA with Java.iml" filepath="$PROJECT_DIR$/LFA with Java/LFA with Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise 06.26.2024/ex001/ex001.iml" filepath="$PROJECT_DIR$/Exercise 06.26.2024/ex001/ex001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise 06.26.2024/ex002/ex002.iml" filepath="$PROJECT_DIR$/Exercise 06.26.2024/ex002/ex002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise 06.26.2024/ex003/ex003.iml" filepath="$PROJECT_DIR$/Exercise 06.26.2024/ex003/ex003.iml" />
     </modules>
   </component>
 </project>
