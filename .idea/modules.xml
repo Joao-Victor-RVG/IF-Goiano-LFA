@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LFA with Java/Ex001/Ex001.iml" filepath="$PROJECT_DIR$/LFA with Java/Ex001/Ex001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LFA with Java/Ex002/Ex002.iml" filepath="$PROJECT_DIR$/LFA with Java/Ex002/Ex002.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IF-Goiano-LFA.iml" filepath="$PROJECT_DIR$/.idea/IF-Goiano-LFA.iml" />
       <module fileurl="file://$PROJECT_DIR$/LFA with Java/LFA with Java.iml" filepath="$PROJECT_DIR$/LFA with Java/LFA with Java.iml" />
     </modules>
